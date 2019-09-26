@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  18 NOV 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  24 SEP 2019 03:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,35 +366,105 @@ LaTeX Font Info:    ... okay on input line 6.
 
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--20
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
  []
 
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./book.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
+
+ []
+
+[3]
+Overfull \hbox (11.30606pt too wide) in paragraph at lines 55--93
+\OT1/cmr/m/n/10 "Durant les 8 pre-miers mois, j'ai ^^Set^^Se int^^Segr^^Se ^^Ra
+ une co-horte de bleus et l'entrainement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--93
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Overfull \hbox (10.2228pt too wide) in paragraph at lines 98--100
+\OT1/cmr/m/n/10 mau-dits homme-boucs n'^^Setait pas arm^^Ses comme ^^Ra leur ha
+bi-tude, avec des grossi^^Reres
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[9] (./book.aux) ) 
 Here is how much of TeX's memory you used:
- 944 strings out of 493029
- 10088 string characters out of 6136233
- 75331 words of memory out of 5000000
- 4537 multiletter control sequences out of 15000+600000
+ 947 strings out of 493029
+ 10112 string characters out of 6136233
+ 99331 words of memory out of 5000000
+ 4540 multiletter control sequences out of 15000+600000
  4906 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,23p,1274b,155s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on book.pdf (2 pages, 45256 bytes).
+ 23i,4n,23p,1624b,155s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on book.pdf (9 pages, 70730 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
